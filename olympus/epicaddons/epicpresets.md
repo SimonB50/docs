@@ -117,4 +117,8 @@ To send a preset that you created, use `preset` command. Running it without any 
 You can also send presets using EpicActions! Check the addon docs for more information.
 {% endhint %}
 
+## Developer API
+
+This section of documentation is still W.I.P.
+
 [^1]: Awaiting Olympus verification

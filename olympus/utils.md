@@ -6,15 +6,15 @@ description: >-
 
 # 🍌 BananaUtils
 
-BananaUtils[^1] is utils file that is required by all addons listed in this documentation ~~and it is bundled with all addons that require it~~.
+BananaUtils[^1] is utils file that is required by all addons listed in this documentation ~~and it's bundled with all addons that require it~~.
 
 ## Installation
 
 While BananaUtils is not an addon it should be installed like one, therefore to install it you need to put `bananaUtils.js` file downloaded from ~~addon archive~~ [BuiltByBit resource page](#user-content-fn-2)[^2].
 
-## Developer usage
+## Developer API
 
-This part of documentation is till **Work In Progress**.
+This part of documentation is till W.I.P.
 
 [^1]: Awaiting Olympus verification
 

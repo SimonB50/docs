@@ -8,3 +8,5 @@
 * [🍌 BananaUtils](olympus/utils.md)
 * [💜 EpicAddons](olympus/epicaddons/README.md)
   * [EpicPresets](olympus/epicaddons/epicpresets.md)
+  * [EpicActions](olympus/epicaddons/epicactions.md)
+  * [EpicInteractions](olympus/epicaddons/epicinteractions.md)
