@@ -6,6 +6,10 @@ description: Documentation for EpicInteractions addon
 
 **EpicInteractions** is an addon that allows for creating interactive messages using Discord buttons and select menus**.**
 
+{% hint style="warning" %}
+This addon requires [EpicActions](https://builtbybit.com/resources/olympus-utils-epicactions.50382/) to work properly!&#x20;
+{% endhint %}
+
 ## Creating interactive messages
 
 For creating interactive messages you need to setup a message with some button(s) or menu(s). To do that, you can use [EpicPresets](epicpresets.md#message-components).\
