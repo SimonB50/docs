@@ -4,7 +4,7 @@ description: Documentation for EpicInteractions addon
 
 # EpicInteractions
 
-EpicInteractions is an addon that allows for creating interactive messages using Discord buttons and select menus**.**
+**EpicInteractions** is an addon that allows for creating interactive messages using Discord buttons and select menus**.**
 
 ## Creating interactive messages
 

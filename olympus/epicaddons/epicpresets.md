@@ -4,7 +4,7 @@ description: Documentation for EpicPresets addon
 
 # EpicPresets
 
-[**EpicPresets**](#user-content-fn-1)[^1] addon allows for sending messages based on presets predefined in the config file.
+**EpicPresets** addon allows for sending messages based on presets predefined in the config file.
 
 ## Basic addon configuration
 
@@ -114,11 +114,9 @@ Only one option can have `default` value set to `true`.
 To send a preset that you created, use `preset` command. Running it without any arguments will display all available presets. To send specific preset, run `preset [presetName]` . You can also add a channel where the preset should be sent (by default, preset will be sent in the channel where the command was executed).
 
 {% hint style="info" %}
-You can also send presets using EpicActions! Check the addon docs for more information.
+You can also send presets using EpicActions! [Check the addon docs for more information.](epicactions.md#epicpresets)
 {% endhint %}
 
 ## Developer API
 
 This section of documentation is still W.I.P.
-
-[^1]: Awaiting Olympus verification

@@ -4,7 +4,7 @@ description: Documentation for EpicAction addon
 
 # EpicActions
 
-EpicActions[^1] addon is a dependency for other addons that allows for running different actions.
+**EpicActions** addon is a dependency for other addons that allows for running different actions.
 
 ## Addon usage
 
@@ -33,11 +33,12 @@ By default, `user` is a member who triggered the action.
 
 <summary>Remove role from user</summary>
 
-<pre class="language-yaml"><code class="lang-yaml">type: "Role",
+```yaml
+type: "Role",
 action: "Remove",
-<strong>role: # Role to be removed,
-</strong>user: # (Optional) User to remove role from
-</code></pre>
+role: # Role to be removed
+user: # (Optional) User to remove role from
+```
 
 By default, `user` is a member who triggered the action.
 
@@ -110,5 +111,3 @@ This will edit the message which triggered the action.\
 ## Developer API
 
 This section of documentation is still W.I.P.
-
-[^1]: Awaiting Olympus verification
