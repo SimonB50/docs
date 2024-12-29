@@ -14,16 +14,21 @@ While BananaUtils is not an addon it should be installed like one, therefore to 
 
 ## BrayanBot config migration
 
-BananaUtils allows BrayanBot using to migrate their configs to the Olympus Bot format. Actions performed are:
+~~BananaUtils allows BrayanBot using to migrate their configs to the Olympus Bot format. Actions performed are:~~
 
-1. Making all keys start from small letter
-2. Removes BrayanBot slash command config and leaves only options object
-3. Makes option type names start from capital letter
-4. Renames file to start from small letter
+1. ~~Making all keys start from small letter~~
+2. ~~Removes BrayanBot slash command config and leaves only options object~~
+3. ~~Makes option type names start from capital letter~~
+4. ~~Renames file to start from small letter~~
 
-Old file is saved under `oldname.yml.old` file.
+~~Old file is saved under `oldname.yml.old` file.~~
 
-To trigger the config migration, user is required to add `# BRAYANBOT MIGRATE #` to the end of the config file. All `.old` files will be ignored and won't be migrated.
+~~To trigger the config migration, user is required to add `# BRAYANBOT MIGRATE #` to the end of the config file. All `.old` files will be ignored and won't be migrated.~~
+
+{% hint style="danger" %}
+Config migration is now a deprecated feature and is not planned to come back at any point.\
+More information regarding this change will be posted on [my support server](https://discord.gg/SgUjx2KJUd).
+{% endhint %}
 
 ## Developer API
 
